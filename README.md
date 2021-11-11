@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently pursuing in **3rd year Electronics and Communication Engineering in Don Bosco Institute of Technology**
+- 🔭 I’m currently pursuing in **4th year Electronics and Communication Engineering in Don Bosco Institute of Technology**
 
 - 🌱 I’m currently learning **Embedded System**
 
